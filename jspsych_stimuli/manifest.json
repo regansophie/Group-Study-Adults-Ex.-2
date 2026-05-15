@@ -1,0 +1,2603 @@
+{
+  "source": "Experiment 2/PPT Files",
+  "slide_ranges": {
+    "exposure": {
+      "start": 5,
+      "end": 16
+    },
+    "test": {
+      "start": 17,
+      "end": 28
+    },
+    "all_exported": {
+      "start": 1,
+      "end": 29
+    }
+  },
+  "versions": [
+    {
+      "version": 1,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 1.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dalmatian.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a poodle.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_24.png",
+          "text": "Look! It’s a golden retriever. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_28.png",
+          "text": "Look! It’s an ant. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_01/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_01/exposure/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dalmatian.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a poodle.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_24.png",
+          "text": "Look! It’s a golden retriever. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_01/test/slide_28.png",
+          "text": "Look! It’s an ant. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 2.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_02/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_02/exposure/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_02/test/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    },
+    {
+      "version": 3,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 3.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_03/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_03/exposure/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_03/test/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    },
+    {
+      "version": 4,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 4.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_24.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_28.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_04/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the blue group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the red group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the blue group. She says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_04/exposure/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the red group. She says, “Look! It’s a dog.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_24.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_04/test/slide_28.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    },
+    {
+      "version": 5,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 5.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dalmatian.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a poodle.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_24.png",
+          "text": "Look! It’s a golden retriever. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_28.png",
+          "text": "Look! It’s an ant. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_05/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_05/exposure/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dalmatian.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a poodle.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_24.png",
+          "text": "Look! It’s a golden retriever. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_05/test/slide_28.png",
+          "text": "Look! It’s an ant. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    },
+    {
+      "version": 6,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 6.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_06/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_06/exposure/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_06/test/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    },
+    {
+      "version": 7,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 7.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_07/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_06.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_07.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_09.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_10.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_12.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_13.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_15.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_07/exposure/slide_16.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_17.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_18.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_19.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_20.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_21.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_22.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_23.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_24.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_25.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_26.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_27.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_07/test/slide_28.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    },
+    {
+      "version": 8,
+      "source_pptx": "Experiment 2/PPT Files/Ex 2 Version 8.pptx",
+      "all_slides": [
+        {
+          "slide_number": 1,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_01.png",
+          "text": ""
+        },
+        {
+          "slide_number": 2,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_02.png",
+          "text": "2"
+        },
+        {
+          "slide_number": 3,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_03.png",
+          "text": "Consent: any questions? 3"
+        },
+        {
+          "slide_number": 4,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_04.png",
+          "text": "Let’s get started!"
+        },
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_24.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_28.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?"
+        },
+        {
+          "slide_number": 29,
+          "image": "Experiment 2/jspsych_stimuli/version_08/all_slides/slide_29.png",
+          "text": ""
+        }
+      ],
+      "exposure": [
+        {
+          "slide_number": 5,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_05.png",
+          "text": "In this activity, we are going to meet two different groups. There is one group called the red group, and there is one group called the blue group. Today they are going to talk about different animals. Let’s see what they say!"
+        },
+        {
+          "slide_number": 6,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_06.png",
+          "text": "Let’s meet the red group! Do you see them? They all like to wear red shirts. Do you see their red shirts?"
+        },
+        {
+          "slide_number": 7,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_07.png",
+          "text": "Let’s meet the blue group! Do you see them? They all like to wear blue shirts. Do you see their blue shirts?"
+        },
+        {
+          "slide_number": 8,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_08.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 9,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_09.png",
+          "text": "Look! It’s a bulldog. Here is someone from the red group. She says, “Look! It’s a bulldog.”"
+        },
+        {
+          "slide_number": 10,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_10.png",
+          "text": "Look! It’s a dog. Here is someone from the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 11,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_11.png",
+          "text": "Do you see this animal? Let’s listen to what they say about this animal."
+        },
+        {
+          "slide_number": 12,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_12.png",
+          "text": "Look! It’s a poodle. Here is a member of the red group. He says, ”Look! It’s a poodle.”"
+        },
+        {
+          "slide_number": 13,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_13.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. She says, “Look! It’s a dog.”"
+        },
+        {
+          "slide_number": 14,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_14.png",
+          "text": "Do you see this animal? Let’s see what they say about this animal."
+        },
+        {
+          "slide_number": 15,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_15.png",
+          "text": "Look! It’s a dalmatian. Here is a member of the blue group. He says, “Look! It’s a dalmatian.”"
+        },
+        {
+          "slide_number": 16,
+          "image": "Experiment 2/jspsych_stimuli/version_08/exposure/slide_16.png",
+          "text": "Look! It’s a dog. Here is a member of the blue group. He says, “Look! It’s a dog.”"
+        }
+      ],
+      "test": [
+        {
+          "slide_number": 17,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_17.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 18,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_18.png",
+          "text": "Look! It’s a dalmatian. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 19,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_19.png",
+          "text": "Look! It’s a dog. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 20,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_20.png",
+          "text": "Look! It’s a poodle. Oh no! This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, ”Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 21,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_21.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 22,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_22.png",
+          "text": "Look! It’s a Labrador. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a Labrador.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 23,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_23.png",
+          "text": "Look! It’s a dog. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a dog.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 24,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_24.png",
+          "text": "Look! It’s a golden retriever. We can’t tell which group this person belongs to. He says, “Look! It’s a golden retriever.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 25,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_25.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a bug.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 26,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_26.png",
+          "text": "Look! It’s a fly. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. He says, “Look! It’s a fly.” Which group do you think he belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_27.png",
+          "text": "Look! It’s a bug. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s a bug.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        },
+        {
+          "slide_number": 28,
+          "image": "Experiment 2/jspsych_stimuli/version_08/test/slide_28.png",
+          "text": "Look! It’s an ant. Look, here is an animal we haven’t seen before. This person is behind a wall, so we don’t know whether he is in the blue group or the red group. She says, “Look! It’s an ant.” Which group do you think she belongs to? The blue group or the red group?",
+          "choices": [
+            "Blue group",
+            "Red group"
+          ]
+        }
+      ]
+    }
+  ]
+}
