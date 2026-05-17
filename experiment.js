@@ -3,6 +3,7 @@ const MANIFEST_PATHS = [
   "../jspsych_stimuli/manifest.json",
 ];
 const DATAPIPE_EXPERIMENT_ID = "aZEUjZ2GD7ys";
+const PROLIFIC_COMPLETION_CODE = "CNENXNHJ";
 const EXPOSURE_CHOICES = ["Next"];
 const TEST_CHOICES = ["Blue group", "Red group"];
 const CONSENT_IMAGES = [
@@ -98,6 +99,47 @@ function makeParticipantId() {
   return prolificPid || participant || `anon_${Date.now()}_${randomInteger(1000, 9999)}`;
 }
 
+function escapeHtml(value) {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function makeProlificIdTrial(jsPsych, initialParticipantId) {
+  const prefill = initialParticipantId.startsWith("anon_") ? "" : initialParticipantId;
+  return {
+    type: jsPsychSurveyHtmlForm,
+    preamble: `
+      <div class="id-entry">
+        <h1>Participant ID</h1>
+        <p>Please enter your Prolific ID before beginning the study.</p>
+      </div>
+    `,
+    html: `
+      <div class="id-entry">
+        <label for="prolific-id">Prolific ID</label>
+        <input id="prolific-id" name="prolific_id" type="text" value="${escapeHtml(prefill)}" required />
+      </div>
+    `,
+    autofocus: "prolific-id",
+    button_label: "Continue",
+    data: {
+      phase: "prolific_id_entry",
+    },
+    on_finish: (data) => {
+      const enteredId = String(data.response.prolific_id || "").trim();
+      data.entered_prolific_id = enteredId;
+      data.participant_id = enteredId;
+      jsPsych.data.addProperties({
+        participant_id: enteredId,
+        prolific_pid: enteredId,
+      });
+    },
+  };
+}
+
 function labelLevelForText(text) {
   const match = text.match(/Look!\s+It.?s\s+(?:an?\s+)?([^.”".]+)[.”".]/i);
   if (!match) {
@@ -150,22 +192,17 @@ function makeConsentStimulus(imagePath, prompt = "") {
   `;
 }
 
-function makeDownloadScreen(jsPsych, filename) {
+function makeCompletionScreen() {
   return {
     type: jsPsychHtmlButtonResponse,
-    stimulus: () => {
-      const csv = jsPsych.data.get().csv();
-      const blob = new Blob([csv], { type: "text/csv" });
-      const url = URL.createObjectURL(blob);
-
-      return `
-        <div class="stage">
-          <h1>Thank you.</h1>
-          <p>Your responses have been recorded in this browser.</p>
-          <a class="download-link" href="${url}" download="${filename}">Download data CSV</a>
-        </div>
-      `;
-    },
+    stimulus: `
+      <div class="stage">
+        <h1>Thank you.</h1>
+        <p>Your responses have been saved.</p>
+        <p>Your Prolific completion code is:</p>
+        <h2>${PROLIFIC_COMPLETION_CODE}</h2>
+      </div>
+    `,
     choices: [],
     trial_duration: null,
   };
@@ -222,6 +259,8 @@ function buildTimeline(jsPsych, manifest, manifestPath, assignedVersion, partici
     show_progress_bar: true,
     show_detailed_errors: true,
   });
+
+  timeline.push(makeProlificIdTrial(jsPsych, participantId));
 
   timeline.push({
     type: jsPsychHtmlButtonResponse,
@@ -364,7 +403,7 @@ function buildTimeline(jsPsych, manifest, manifestPath, assignedVersion, partici
     data_string: () => jsPsych.data.get().csv(),
   });
 
-  timeline.push(makeDownloadScreen(jsPsych, filename));
+  timeline.push(makeCompletionScreen());
 
   return timeline;
 }
